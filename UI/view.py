@@ -85,7 +85,7 @@ class View:
 
             # Sezione 3
             # TODO
-            ft.Row(controls=[ft.Text("Automobili", size020), pulsante_mostra_strumenti]),
+            ft.Row(controls=[ft.Text("Strumenti", size=20), pulsante_mostra_strumenti]),
             self.lista_strumenti,
             ft.Divider(),
 
